@@ -9,7 +9,6 @@ The platform allows athletes to create an account, log in, upload performance-as
 🔗 **[Visit LAKSHYA](https://avinashbaliyan.github.io/5th-sem-Mini-project/)**
 
 ## Project Team
-
 | Name | Roll Number | Course and Year |
 |---|---:|---|
 | Avinash Kumar Baliyan | 2400680100137 | 3rd Year, Computer Science and Engineering |
