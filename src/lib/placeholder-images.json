@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-bg",
+      "description": "Athlete preparing to run on a track",
+      "imageUrl": "https://picsum.photos/seed/lakshya-login/1920/1080",
+      "imageHint": "athlete running"
+    }
+  ]
+}
